@@ -1,0 +1,1 @@
+# Equity-research-and-fundamental-analysis-Indian-banking-sector
