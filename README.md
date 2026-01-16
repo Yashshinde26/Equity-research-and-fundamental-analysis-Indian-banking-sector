@@ -10,11 +10,11 @@ These institutions are used to study sector-level themes such as deposit franchi
 ## Projects Included
 
 ### ICICI Bank – Equity Research Pitch Deck
-- Sell-side style equity research deck covering sector context, business model, financial performance, peer comparison, valuation rationale, and key risks.
+- Sell-side style equity research deck covering sector context, business model, financial performance, peer comparison, valuation rationale and key risks.
 - Focuses on ROE-led valuation logic and balance-sheet quality rather than short-term price prediction.
 
 ### HDFC Bank – One-Page Fundamental Profile
-- Concise, institutional-style one-page snapshot analyzing multi-year trends in profitability, efficiency, asset quality, and valuation metrics.
+- Concise, institutional-style one-page snapshot analyzing multi-year trends in profitability, efficiency, asset quality and valuation metrics.
 - Designed for quick fundamental assessment rather than investment recommendation.
 
 ## Disclaimer
